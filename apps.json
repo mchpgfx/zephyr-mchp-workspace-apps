@@ -1,0 +1,11 @@
+{
+  "repos": [
+    {
+      "name": "mgs_zephyr_lvgl",
+      "description": "MGS Zephyr LVGL Demos",
+      "url": "https://github.com/mchpgfx/mgs_zephyr_lvgl.git",
+      "revision": "main",
+      "modules": ["lvgl"]
+    }
+  ]
+}
