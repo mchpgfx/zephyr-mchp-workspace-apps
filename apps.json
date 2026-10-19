@@ -6,6 +6,13 @@
       "url": "https://github.com/mchpgfx/mgs_zephyr_lvgl.git",
       "revision": "main",
       "modules": ["lvgl"]
+    },
+    {
+      "name": "maxtouch_mtch_mgs_lvgl_demo",
+      "description": "maXTouch and MTCH touch demo using Zephyr and LVGL graphics",
+      "url": "https://github.com/atmel-maxtouch/maxtouch_mtch_mgs_lvgl_demo.git",
+      "revision": "main",
+      "modules": ["lvgl"]
     }
   ]
 }
